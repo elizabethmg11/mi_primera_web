@@ -1,0 +1,28 @@
+body{
+background-color: fuchsia;
+}
+header{
+    background-color: rgb(25, 104, 135);
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header a i{
+    color:crimson;
+    font-size: 3cm;
+    padding: 0.5cm;
+}
+header nav ul {
+    display: flex;
+gap: 1.7em;
+}
+header nav ul li a {
+    color:blue;
+}
+.container {
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1200px;
+    }
+    
+
