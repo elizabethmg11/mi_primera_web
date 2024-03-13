@@ -84,4 +84,5 @@ footer p {
     width: 200px;
     height: auto;
     border-radius: 50%;
-    border:
+    border: 5px;
+}
